@@ -1,0 +1,20 @@
+#mood-indicator{
+    height: 300px;
+    width: 300px;
+}
+.Happy
+{
+    background-color:rgb(238, 241, 0)
+}
+.Sleepy
+{
+    background-color: rgb(35, 177, 0)
+}
+.Sad
+{
+    background-color: rgb(19, 0, 164);
+}
+.Excited
+{
+    background-color: rgb(255, 0, 66);
+}
